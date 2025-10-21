@@ -1,3 +1,4 @@
+/*src : https://github.com/EusthEnoptEron/jellyfin-plugin-animethemes?tab=readme-ov-file#other-notes*/
 body:not(.hide-scroll) > .videoPlayerContainer > video {
    object-fit: cover;
 }
