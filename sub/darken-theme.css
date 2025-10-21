@@ -2,3 +2,8 @@ div.videoPlayerContainer {
    filter: brightness(0.4) !important;
    object-fit: cover;
 }
+
+body:not(.hide-scroll) > div.videoPlayerContainer {
+   object-fit: cover;
+   filter: brightness(0.4) !important;
+}
