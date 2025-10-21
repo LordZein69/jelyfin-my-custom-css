@@ -1,4 +1,5 @@
 /*src : https://github.com/EusthEnoptEron/jellyfin-plugin-animethemes?tab=readme-ov-file#other-notes*/
 body:not(.hide-scroll) > .videoPlayerContainer > video {
    object-fit: cover;
+   filter: brightness(0.7); /* nilai antara 0 (gelap total) sampai 1 (normal) */
 }
