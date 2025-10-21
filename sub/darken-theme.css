@@ -1,7 +1,0 @@
-div.videoPlayerContainer video {
-   filter: brightness(0.4) !important;
-}
-
-body:not(.hide-scroll) > div.videoPlayerContainer video {
-   filter: brightness(0.4) !important;
-}
